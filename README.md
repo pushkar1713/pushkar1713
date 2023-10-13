@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi there 👋
+
+My name is Pushkar Aggarwal and I am a 2nd year B.Tech CSE. I am enthusiastic and love learning new technologies and build projects.
+I am new to Open Source so really looking forward to lots of different projects.
 
 <!--
 **pushkar1713/pushkar1713** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
