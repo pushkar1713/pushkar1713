@@ -34,8 +34,10 @@ Here are some ideas to get you started:
 <a href="https://github.com/pushkar1713/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=pushkar1713&show_icons=true&theme=tokyonight" />
 </a>
+<br />
+<br />
 <a href="https://github.com/pushkar1713">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushkar1713&layout=compact&theme=tokyonight&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushkar1713&layout=compact&theme=tokyonight&card_width=335" />
 </a>
 
 ## Socials :
