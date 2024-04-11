@@ -1,4 +1,5 @@
 # Hi there 👋
+<p align = "left"> <img src = "https://komarev.com/ghpvc/?username=pushkar1713" alt = "pushkar1713" /> </p>
 
 My name is Pushkar Aggarwal and I am a 2nd year B.Tech CSE. I am enthusiastic and love learning new technologies and build projects.
 I am new to Open Source so really looking forward to lots of different projects.
