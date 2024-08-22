@@ -35,7 +35,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/pushkar1713/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=pushkar1713&show_icons=true&theme=tokyonight" />
 </a>
-<br />
 <a href="https://github.com/pushkar1713">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushkar1713&layout=compact&theme=tokyonight&card_width=335" />
 </a>
@@ -45,5 +44,5 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pushkar1713/)
 
 ## Coding Profiles :
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/pushkar1713/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/pushkar1713)
+[![Codeforces](https://badges.riever.dev/codeforces/pushkar1713.svg)](https://codeforces.com/profile/pushkar1713)
+[![AtCoder](https://badges.riever.dev/atcoder/pushkar1713.svg)](https://atcoder.jp/users/pushkar1713)
