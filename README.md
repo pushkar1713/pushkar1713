@@ -1,9 +1,9 @@
 # Hi there 👋
 <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=pushkar1713" alt = "pushkar1713" /> </p>
 
-My name is Pushkar Aggarwal and I am a 2nd year B.Tech CSE. I am enthusiastic and love learning new technologies and build projects.
-I am new to Open Source so really looking forward to lots of different projects.
-
+My name is Pushkar Aggarwal and I am a 3rd year CS Undergrad. I love building cool projects and learning new skills and technologies.  
+- My Hobbies include reading novels and watching movies.  
+- Currently learning web development and plan to learn machine learning soon.
 <!--
 **pushkar1713/pushkar1713** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,10 +20,12 @@ Here are some ideas to get you started:
 -->
 
 ## My Tech Stack :
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="left" alt="node" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" />
 <br />
@@ -32,12 +34,12 @@ Here are some ideas to get you started:
 [![An image of @pushkar1713's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pushkar1713)](https://holopin.io/@pushkar1713)
 
 ## My Stats :
-<a href="https://github.com/pushkar1713/github-readme-stats">
+<span><a href="https://github.com/pushkar1713/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=pushkar1713&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/pushkar1713">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushkar1713&layout=compact&theme=tokyonight&card_width=335" />
-</a>
+</a><span/>
 
 ## Socials :
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/pushkar1713)
