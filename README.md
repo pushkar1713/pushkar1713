@@ -1,9 +1,9 @@
 # Hi there 👋
 <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=pushkar1713" alt = "pushkar1713" /> </p>
 
-My name is Pushkar Aggarwal and I am a 3rd year CS Undergrad. I love building cool projects and learning new skills and technologies.  
-- My Hobbies include reading novels and watching movies.  
-- Currently learning web development and plan to learn machine learning soon.
+My name is Pushkar Aggarwal and I am a 3rd year CS Undergrad. I love building cool projects and learning new things.  
+- hobbies include reading novels and watching films.  
+- intrested in web, ml and systems.
 <!--
 **pushkar1713/pushkar1713** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
