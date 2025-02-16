@@ -47,4 +47,4 @@ Here are some ideas to get you started:
 
 ## Coding Profiles :
 [![Codeforces](https://badges.riever.dev/codeforces/pushkar1713.svg)](https://codeforces.com/profile/pushkar1713)
-[![AtCoder](https://badges.riever.dev/atcoder/pushkar1713.svg)](https://atcoder.jp/users/pushkar1713)
+[![pushkar1713](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fpushkar1713)](https://atcoder.jp/users/pushkar1713)
