@@ -3,7 +3,7 @@
 
 My name is Pushkar Aggarwal and I am a 3rd year CS Undergrad. I love building cool projects and learning new things.  
 - hobbies include reading novels and watching films.  
-- intrested in web, ml and systems.
+- interested in web and intelligent systems.
 <!--
 **pushkar1713/pushkar1713** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
