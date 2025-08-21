@@ -11,8 +11,6 @@ I am a 3rd year CS Undergrad. I love building cool projects and learning new thi
 
 - Currently working on :
   - Jive : A full stack app for making communication easier (something like slack and discord)
-  - ProteinX : A NLP based protein visualizer directly accessible right in the browser using Mol*.
-  - Colosseum : A leetcode/codeforces alternative to practice, compete and host contests.
       
 > thinking of how can I can introduce ai and agentic application in these projects.
 <!--
