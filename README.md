@@ -1,6 +1,6 @@
 # hi, I am pushkar 🚀
 <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=pushkar1713" alt = "pushkar1713" /> </p>
-I am a 3rd year CS Undergrad. I love building cool projects and learning new things.
+I am a final year CS Undergrad. I love building cool projects and learning new things.
 
 - hobbies include reading novels and watching films.
 - interested in web and intelligent systems.
