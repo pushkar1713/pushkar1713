@@ -1,16 +1,16 @@
 # hi, I am pushkar 🚀
 <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=pushkar1713" alt = "pushkar1713" /> </p>
-I am a final year CS Undergrad and SWE Intern @Paasa building at scale and enabling people to invest in global markets from india. I love building cool projects and learning new things.
+I am a final year CS Undergrad and SDE @Paasa building at scale and enabling people to invest in global markets from india. I love building cool projects and learning new things.
 
 - hobbies include reading novels and watching films.
-- interested in web and intelligent systems.
+- interested in web, low-level and intelligent systems.
 
 - What am I learning
   - learning how to make models in pytorch
   - web internals, how things work under the hood
 
 - Currently working on :
-  - Jive : A full stack app for making communication easier (something like slack and discord)
+  - tbd
       
 > thinking of how can I can introduce ai and agentic application in these projects.
 <!--
