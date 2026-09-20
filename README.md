@@ -1,18 +1,17 @@
 # hi, I am pushkar 🚀
 <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=pushkar1713" alt = "pushkar1713" /> </p>
-I am a final year CS Undergrad and SDE @Paasa building at scale and enabling people to invest in global markets from india. I love building cool projects and learning new things.
+I am a 2026 CS Undergrad and SDE @Paasa building at scale and enabling people to invest in global markets from india. I love building cool projects and learning new things.
 
-- hobbies include reading novels and watching films.
+- hobbies include reading novels, manga, watching films and anime.
 - interested in web, low-level and intelligent systems.
 
 - What am I learning
-  - learning how to make models in pytorch
-  - web internals, how things work under the hood
+  - how to design distributed systems that can scale and write reliable code that cannot fail
+  - ai agents and how to fully utilize their potential
 
 - Currently working on :
-  - tbd
-      
-> thinking of how can I can introduce ai and agentic application in these projects.
+  - wanderlog lite (a tool to catalogue and track food places)
+  - agentic tooling in go
 <!--
 **pushkar1713/pushkar1713** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
